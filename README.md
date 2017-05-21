@@ -1,0 +1,1 @@
+# android_device_ixion_scx35_sp7731gea_hdr
